@@ -14,7 +14,7 @@ data/ml-translation_raw.txt
 data/ml-translation_match_patterns_raw.txt
 ```
 
-:balloon: *If your browser has configured the subscription rules, and after modifying the metadata, the github action will automatically update the subscription list.*
+:balloon: *If your browser has configured the [subscription rules](https://github.com/secanylab/uBlacklist_subscription#for-subscription-providers), and after modifying the metadata, the github action will automatically update the subscription list.*
 
 
 ## Toolkit
