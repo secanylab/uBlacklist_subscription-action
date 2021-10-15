@@ -32,7 +32,7 @@ print("total count: {}".format(len(content)))
 raw_content = "\n".join(content)
 raw_other_regex = "".join(other_regex_f.readlines())
 
-with open("../ml-translation_v1.txt", "w") as f:
+with open("ml-translation_v1.txt", "w") as f:
     f.truncate(0)
     f.write(raw_other_regex)
     f.write("\n!# domain list\n")

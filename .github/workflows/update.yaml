@@ -19,10 +19,9 @@ jobs:
         apt-get install --no-install-recommends -y python3-dev python3-pip
     - name: update Blocklist
       run: |
-        pip3 install -r requirements.txt
-        cd src && \
-          python3 filter_content_farm.py && \
-          python3 filter_ml_translation.py
+        pip3 install -r src/requirements.txt
+        python3 src/filter_content_farm.py
+        python3 src/filter_ml_translation.py
     - name: push
       uses: github-actions-x/commit@v2.8
       with:
