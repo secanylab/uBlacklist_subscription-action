@@ -30,4 +30,4 @@ jobs:
         files: ml-translation_v1.txt content-farm_v1.txt
         commit-message: "update subscription"
         push-branch: master
-        rebase: 'true'
+        # rebase: 'true'
