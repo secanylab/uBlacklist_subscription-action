@@ -2,18 +2,19 @@
 
 [![update-uBlacklist-subscription](https://github.com/secanylab/uBlacklist_subscription/actions/workflows/update.yaml/badge.svg)](https://github.com/secanylab/uBlacklist_subscription/actions/workflows/update.yaml)
 
-uBlacklist Subscription List
+[Blocks specific sites from appearing in Google search results](https://github.com/iorate/uBlacklist) with uBlacklist Subscription List.
+
 
 ## How to customize metadata
 
 ```
-// content farm meta
-data/content-farm_raw.txt
-data/content-farm_match_patterns_raw.txt
+  // content farm meta
+  data/content-farm_raw.txt
+  data/content-farm_match_patterns_raw.txt
 
-// ml translation meta
-data/ml-translation_raw.txt
-data/ml-translation_match_patterns_raw.txt
+  // ml translation meta
+  data/ml-translation_raw.txt
+  data/ml-translation_match_patterns_raw.txt
 ```
 
 :balloon: *If your browser has configured the [subscription rules](https://github.com/secanylab/uBlacklist_subscription#for-subscription-providers), and after modifying the metadata, the github action will automatically update the subscription list.*
