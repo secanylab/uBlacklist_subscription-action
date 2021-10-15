@@ -1,8 +1,23 @@
 # uBlacklist Subscription
 
+[![update-uBlacklist-subscription](https://github.com/secanylab/uBlacklist_subscription/actions/workflows/update.yaml/badge.svg)](https://github.com/secanylab/uBlacklist_subscription/actions/workflows/update.yaml)
+
 uBlacklist Subscription List
 
-# Toolkit
+## How to customize metadata
+
+```
+data/content-farm_raw.txt
+data/content-farm_match_patterns_raw.txt
+
+data/ml-translation_raw.txt
+data/ml-translation_match_patterns_raw.txt
+```
+
+:balloon: *If your browser has configured the subscription rules, and after modifying the metadata, the github action will automatically update the subscription list.*
+
+
+## Toolkit
 
 ```
   * src/filter_content_farm.py      gen content farm list.

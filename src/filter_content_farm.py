@@ -9,7 +9,7 @@ from tld.utils import update_tld_names
 update_tld_names()
 
 f = open("./data/content-farm_raw.txt", "r")
-other_regex_f = open("./data/content-farm_other_raw.txt", "r")
+other_regex_f = open("./data/content-farm_match_patterns_raw.txt", "r")
 
 filter_domain_list = []
 for line in f.readlines():
