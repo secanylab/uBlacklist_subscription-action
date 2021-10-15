@@ -1722,6 +1722,7 @@ title/小.(百科|知识)网/
 *://*.asc-infolog.buzz/*
 *://*.ascd9.cn/*
 *://*.ascv-musculation.buzz/*
+*://*.asdfasdfasdfasdf.com/*
 *://*.asesorinfo.buzz/*
 *://*.asfvff.cn/*
 *://*.asgvas.cn/*
