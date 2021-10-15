@@ -21,12 +21,19 @@ jobs:
         pip3 install -r src/requirements.txt
         python3 src/filter_content_farm.py
         python3 src/filter_ml_translation.py
-    - name: push
-      uses: github-actions-x/commit@v2.8
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v7
       with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        force-add: 'true'
-        files: ml-translation_v1.txt content-farm_v1.txt
-        commit-message: "update subscription"
-        push-branch: master
-        # rebase: 'true'
+        author_name: secanylab-robot
+        author_email: secanylab-robot@github.com
+        message: 'update subscription'
+        add: 'ml-translation_v1.txt content-farm_v1.txt'
+    # - name: push
+    #   uses: github-actions-x/commit@v2.8
+    #   with:
+    #     github-token: ${{ secrets.GITHUB_TOKEN }}
+    #     force-add: 'true'
+    #     files: ml-translation_v1.txt content-farm_v1.txt
+    #     commit-message: "update subscription"
+    #     push-branch: master
+    #     # rebase: 'true'
