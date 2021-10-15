@@ -1,0 +1,15 @@
+!# regex list
+/.*(2ch).*/
+/.*(5ch).*/
+/.*(matome).*/
+/^https?:\/\/(www\.)?it-(swarm|mure)[-.]([a-z]{1,5}[-.]){0,3}[a-z]{1,5}\//
+
+!# title list
+title/*一键访问国外网站*/
+title/*佛跳墙*/
+title/点击一次就可以出国/
+title/一键访问国外网站/
+title/小[\s\S]知识网/
+title/小[\s\S]百科网/
+title/.* - 小.(百科|知识)网/
+title/小.(百科|知识)网/

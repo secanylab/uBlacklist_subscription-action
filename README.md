@@ -2,6 +2,13 @@
 
 uBlacklist Subscription List
 
+# Toolkit
+
+```
+  * src/filter_content_farm.py      gen content farm list.
+  * src/filter_ml_translation.py    gen ml translation list.
+```
+
 ## For subscription providers
 
 ```

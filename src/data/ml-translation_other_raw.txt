@@ -1,0 +1,29 @@
+!# regex list
+/it-swarm.*/
+/\w+\.codeflow\.site/
+/\w+\.it-swarm\.\w+/
+/\w+\.it-swarm-\w+\.\w+/
+/\w+\.it-swarm\.\w+\.\w+/
+/(.+\.)?inimaa\.us/
+/\w+\.proxypy\.org/
+/([\w\d_-]+ptt|ptt[\w\d_-]+)\.(com|net|tw|cc)/
+
+!# title list
+title/*一键访问国外网站*/
+title/*佛跳墙*/
+title/点击一次就可以出国/
+title/一键访问国外网站/
+title/小[\s\S]知识网/
+title/小[\s\S]百科网/
+title/.* - 小.(百科|知识)网/
+title/小.(百科|知识)网/
+
+!# uri list
+*://*/so.php
+*://*/so.php?s=*
+*://*/cha.php?s=*
+*://*/list.php?s=*
+*://*/?s=*
+*://*/so/*
+*://*/key/*
+*://*/less/*
