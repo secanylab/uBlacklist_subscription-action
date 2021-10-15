@@ -27,9 +27,8 @@ jobs:
       uses: github-actions-x/commit@v2.8
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
-        commit-message: 'update subscription'
         force-add: 'true'
         files: ml-translation_v1.txt content-farm_v1.txt
-        commit-message: "update uBlacklist subscription"
+        commit-message: "update subscription"
         push-branch: master
         rebase: 'true'
