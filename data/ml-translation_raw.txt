@@ -1,20 +1,4 @@
-!# domain list
-0317car.cn
-07yue.com
-192link.com
-1d9z.com
-1r1g.com
-23086096.carucc.com
-25cr2ni4w.com
-277a.com
-298.life
-366service.com
-3daima.com
-52movs.com
-5634111.com
-66.wendadaohang.com
-919.cc
-948v.com
+!#
 abcdao.com
 adsc.krank-durch-mobilfunk.de
 advos.cn
@@ -116,6 +100,7 @@ d.zymrg.com
 daiki-global.work
 darler.gitee.io
 datatables.club
+debugcn.com
 demxs.com
 dfuw.redandgold.de
 dguun.com
@@ -147,6 +132,7 @@ eoncon.com
 eozy.vip-erfolgscoach.de
 esse-online.jp
 esuteru.com
+exceptionshub.com
 excesssecurity.com
 eyewated.com
 ezgckg.com
@@ -176,6 +162,9 @@ gctm.shk-cux.de
 gdeadoogle.appspot.com
 gdjuhong.com
 geinou-summary666.com
+generacodice.blog
+generacodice.com
+generacodice.it
 genroq.jp
 getm4.aiyanqing.com
 gigaranking.jp
@@ -235,7 +224,11 @@ issues-world.com
 isys.top
 it-kyujin.jp
 it-mure.jp.net
+it-swarm-ja.com
+it-swarm-ja.tech
+it-swarm.com.ru
 it-swarm.dev
+it-swarm.jp.net
 it-swarm.net
 it1352.com
 itdaan.com
@@ -371,6 +364,7 @@ natura-karite.com
 naver.jp
 nbri.stephan-messling.de
 neutrikmall.com
+newbedev.com
 newshareing.com
 newsmatomedia.com
 next-infonews.com
@@ -415,6 +409,7 @@ plytic.com
 popdaily.com.tw
 portalfield.com
 ppfocus.com
+pretagteam.com
 priorityhospice.com
 probacc.com
 program-hub.cn
@@ -427,6 +422,7 @@ proxygogogo.appspot.com
 proxypy-gae.appspot.com
 proxypycode.appspot.com
 proxyscript.appspot.com
+py4u.net
 python5.com
 python88.com
 qa-stack.pl
@@ -573,6 +569,7 @@ wap.cqbwq.com
 wap.pai-hang-bang.com
 wawb.mode-pur-tangermuende.de
 waymanamechurch.org
+webdevqa.jp.net
 websurfnow.appspot.com
 wedt.rollender-bauernladen.de
 wenyanet.com
@@ -928,3 +925,19 @@ zlvj.signalhund.de
 zrsd.schorfheidecarport.de
 zsharp.org
 zzyyo.com
+1d9z.com
+1r1g.com
+3daima.com
+07yue.com
+25cr2ni4w.com
+52movs.com
+66.wendadaohang.com
+192link.com
+277a.com
+298.life
+0317car.cn
+366service.com
+919.cc
+948v.com
+5634111.com
+23086096.carucc.com
