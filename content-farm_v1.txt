@@ -630,6 +630,7 @@ title/小.(百科|知识)网/
 *://*.3ccvvap.cn/*
 *://*.3daima.com/*
 *://*.3dmdvx.cn/*
+*://*.3eaodi.com/*
 *://*.3feetshort.buzz/*
 *://*.3fizoog.cn/*
 *://*.3gebike.com/*
@@ -822,6 +823,7 @@ title/小.(百科|知识)网/
 *://*.51fawang.com/*
 *://*.51gole.com/*
 *://*.51huanzu.com/*
+*://*.51javacms.com/*
 *://*.51p1.com/*
 *://*.51pz.com.cn/*
 *://*.51qkk.com/*
@@ -1115,6 +1117,7 @@ title/小.(百科|知识)网/
 *://*.78zkvh3.cn/*
 *://*.790y.com/*
 *://*.793985.com/*
+*://*.796t.com/*
 *://*.797590.com/*
 *://*.79umi0z.cn/*
 *://*.7aj4vik.cn/*
@@ -1666,6 +1669,7 @@ title/小.(百科|知识)网/
 *://*.ap8o2.cn/*
 *://*.apartmentcenters.buzz/*
 *://*.aphhh.com/*
+*://*.apiref.com/*
 *://*.apizz.cn/*
 *://*.apkhr.com/*
 *://*.apotheken-bestellung.buzz/*
@@ -2097,6 +2101,7 @@ title/小.(百科|知识)网/
 *://*.bokeehome.cn/*
 *://*.boku-tabi.com/*
 *://*.bokumato.jp/*
+*://*.bolafans.com/*
 *://*.bolangwan.com/*
 *://*.bolieyun.com/*
 *://*.bomei007.com/*
@@ -2113,6 +2118,7 @@ title/小.(百科|知识)网/
 *://*.boschgl.com/*
 *://*.boshi-hawaii.com/*
 *://*.bossiercountry.buzz/*
+*://*.bountysource.com/*
 *://*.boyaclean.com/*
 *://*.boyajyzs.cn/*
 *://*.bp2sbo0.cn/*
@@ -2452,6 +2458,7 @@ title/小.(百科|知识)网/
 *://*.cj0n93c.cn/*
 *://*.cjegnvd.cn/*
 *://*.cjhx.cn.com/*
+*://*.cjjjs.com/*
 *://*.cjnxfhy.cn/*
 *://*.cjpt.cn/*
 *://*.cjpzumg.cn/*
@@ -2525,11 +2532,13 @@ title/小.(百科|知识)网/
 *://*.cnwuye.com/*
 *://*.cnzzcdn.com/*
 *://*.coddagn.cn/*
+*://*.coddingbuddy.com/*
 *://*.code-examples.net/*
 *://*.codebug.vip/*
 *://*.codecocoa.com/*
 *://*.codeday.me/*
 *://*.codedefault.com/*
+*://*.codegrepper.com/*
 *://*.codejzy.com/*
 *://*.codeleading.com/*
 *://*.codenong.com/*
@@ -2562,6 +2571,7 @@ title/小.(百科|知识)网/
 *://*.congga.cn/*
 *://*.continue-healthy.com/*
 *://*.contrex-us.buzz/*
+*://*.convertf.com/*
 *://*.coolpotcc.com/*
 *://*.copoen.cn/*
 *://*.copyan.com/*
@@ -2631,6 +2641,7 @@ title/小.(百科|知识)网/
 *://*.cscorigin.com/*
 *://*.csdake.com/*
 *://*.csdetec.com/*
+*://*.csdn.net/*
 *://*.csfeiyuan.com/*
 *://*.cshuamu8.com/*
 *://*.cshyyqj.com/*
@@ -2779,6 +2790,7 @@ title/小.(百科|知识)网/
 *://*.dayooco.com/*
 *://*.dayslabo.com/*
 *://*.dayuimage.com/*
+*://*.dazhuanlan.com/*
 *://*.db5ds.com/*
 *://*.dbbsfs.cn/*
 *://*.dbh0ks2.cn/*
@@ -3563,6 +3575,7 @@ title/小.(百科|知识)网/
 *://*.g0jq8li.cn/*
 *://*.g25cmfn.cn/*
 *://*.g3sixfb.cn/*
+*://*.g408.com/*
 *://*.g47tu7.cn/*
 *://*.g4vf0nj.cn/*
 *://*.g534.com/*
@@ -3685,6 +3698,7 @@ title/小.(百科|知识)网/
 *://*.giffinfinancial.buzz/*
 *://*.gifts-of-time.buzz/*
 *://*.gifttagtw.com/*
+*://*.gingerdoc.com/*
 *://*.gionee.com/*
 *://*.girard-lakecity.buzz/*
 *://*.girlboy.cn/*
@@ -4290,6 +4304,7 @@ title/小.(百科|知识)网/
 *://*.hosyusokuhou.jp/*
 *://*.hotbak.net/*
 *://*.hotel-britannic.buzz/*
+*://*.hotexamples.com/*
 *://*.hotsync.cn/*
 *://*.hotword-coolword.com/*
 *://*.houtaiyun.com/*
@@ -4635,6 +4650,7 @@ title/小.(百科|知识)网/
 *://*.itigic.com/*
 *://*.itmpi-journal.buzz/*
 *://*.itnewes.com/*
+*://*.itranslate.com/*
 *://*.itranslater.com/*
 *://*.itread01.com/*
 *://*.itvgm.cn/*
@@ -5742,9 +5758,11 @@ title/小.(百科|知识)网/
 *://*.mabis.buzz/*
 *://*.maboblog.com/*
 *://*.mabomabo00.com/*
+*://*.mac69.com/*
 *://*.macaodaily.com/*
 *://*.machao56.com/*
 *://*.machbbs.com/*
+*://*.macsc.com/*
 *://*.madeingali.com/*
 *://*.madhyamgram.buzz/*
 *://*.madisonbrowne.buzz/*
@@ -6230,6 +6248,7 @@ title/小.(百科|知识)网/
 *://*.netouyonews.net/*
 *://*.netspew.buzz/*
 *://*.new0059.com/*
+*://*.newbedev.com/*
 *://*.newcastle.net.cn/*
 *://*.newdaily.cn/*
 *://*.newdragonhostelbeijing.cn/*
@@ -6323,6 +6342,7 @@ title/小.(百科|知识)网/
 *://*.nk40.com/*
 *://*.nkj21.com/*
 *://*.nkpz8u.cn/*
+*://*.nkswoosh.com/*
 *://*.nl38.cn/*
 *://*.nl85ob0.cn/*
 *://*.nladuktg.cn/*
@@ -6518,6 +6538,7 @@ title/小.(百科|知识)网/
 *://*.opag.buzz/*
 *://*.opdenenk.nl/*
 *://*.opeck.cn/*
+*://*.open-open.com/*
 *://*.opensrs.cn/*
 *://*.optima-ski.com/*
 *://*.oqgeyvg.cn/*
@@ -6723,6 +6744,7 @@ title/小.(百科|知识)网/
 *://*.pitalitobicentenario.com/*
 *://*.pitlochrygolfclub.buzz/*
 *://*.piwnb1x.cn/*
+*://*.pixnet.net/*
 *://*.pjbwg.com/*
 *://*.pjcq8.com/*
 *://*.pjen34r.cn/*
@@ -6874,6 +6896,7 @@ title/小.(百科|知识)网/
 *://*.pxyz760.cn/*
 *://*.pxz8.cn/*
 *://*.py3study.com/*
+*://*.py4u.net/*
 *://*.pyax021.cn/*
 *://*.pybyb.com/*
 *://*.python5.com/*
@@ -7167,6 +7190,7 @@ title/小.(百科|知识)网/
 *://*.renniboix.loan/*
 *://*.rentals-bg.buzz/*
 *://*.reon0912.com/*
+*://*.reposhub.com/*
 *://*.resellersupportcenter.nl/*
 *://*.reserve111.com/*
 *://*.resoleusa.buzz/*
@@ -7287,6 +7311,7 @@ title/小.(百科|知识)网/
 *://*.ruigejgj.cn/*
 *://*.ruiqs.com/*
 *://*.runronger.com/*
+*://*.runxinzhi.com/*
 *://*.ruonu.com/*
 *://*.ruoping666.com/*
 *://*.ruoping999.com/*
@@ -8308,6 +8333,7 @@ title/小.(百科|知识)网/
 *://*.toriphile.buzz/*
 *://*.toushichannel.net/*
 *://*.touyanmo.com/*
+*://*.towardsdatascience.com/*
 *://*.toyechina.cn/*
 *://*.toyif.cn/*
 *://*.toyota-phv.jp/*
@@ -8355,6 +8381,7 @@ title/小.(百科|知识)网/
 *://*.trust1688.com/*
 *://*.trvhyxw.cn/*
 *://*.trw9n5h.cn/*
+*://*.tsingfun.com/*
 *://*.tsltw.com/*
 *://*.tsm8.cn/*
 *://*.tsns.xyz/*
@@ -8483,6 +8510,7 @@ title/小.(百科|知识)网/
 *://*.uh562o.cn/*
 *://*.uh8ejr1.cn/*
 *://*.uhlist.buzz/*
+*://*.uhomework.com/*
 *://*.uhxfeh.xyz/*
 *://*.uibtzj.cn/*
 *://*.uibulo.com/*
@@ -8861,6 +8889,7 @@ title/小.(百科|知识)网/
 *://*.wev8x5g.tw/*
 *://*.wevopsj.cn/*
 *://*.wf33.cn/*
+*://*.wfdmjx.com/*
 *://*.wffd3cl.cn/*
 *://*.wffglmu.cn/*
 *://*.wfm8.cn/*
@@ -8913,6 +8942,7 @@ title/小.(百科|知识)网/
 *://*.wiixin.com/*
 *://*.wikioi.com/*
 *://*.wikiwiki.site/*
+*://*.wikiwomens.com/*
 *://*.win10set.com/*
 *://*.win10u.com/*
 *://*.win10xiazai.com/*
@@ -10096,6 +10126,7 @@ title/小.(百科|知识)网/
 *://*.ztguolu.com/*
 *://*.ztjianfa.com/*
 *://*.ztur.cn/*
+*://*.ztyii.com/*
 *://*.zub2yiw.cn/*
 *://*.zuckyzczc.com/*
 *://*.zuilvu.com/*
@@ -10113,6 +10144,7 @@ title/小.(百科|知识)网/
 *://*.zwz365.com/*
 *://*.zx001.com.cn/*
 *://*.zx2xyw2.cn/*
+*://*.zxbblog.com/*
 *://*.zxcx114.com/*
 *://*.zxitg.com/*
 *://*.zxj1i5r.cn/*
@@ -10173,5 +10205,6 @@ title/小.(百科|知识)网/
 *://*.zzyyo.com/*
 *://*.zzzhtrade.com/*
 *://*.zzzhuoxin.cn/*
+*://*.zzzprojects.com/*
 *://*.zzzxmryy.com/*
 *://*.zzzysy.com/*

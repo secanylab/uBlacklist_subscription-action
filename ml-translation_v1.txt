@@ -282,6 +282,7 @@ title/小.(百科|知识)网/
 *://*.esse-online.jp/*
 *://*.esuteru.com/*
 *://*.eternalcq.com/*
+*://*.exceptionshub.com/*
 *://*.excesssecurity.com/*
 *://*.excite.co.jp/*
 *://*.eyewated.com/*
@@ -565,6 +566,7 @@ title/小.(百科|知识)网/
 *://*.nbyoho.com/*
 *://*.nervenbahnmassage.de/*
 *://*.neutrikmall.com/*
+*://*.newbedev.com/*
 *://*.newcarinfosd.com/*
 *://*.newerawire.com/*
 *://*.newshareing.com/*
@@ -615,6 +617,7 @@ title/小.(百科|知识)网/
 *://*.popdaily.com.tw/*
 *://*.portalfield.com/*
 *://*.ppfocus.com/*
+*://*.pretagteam.com/*
 *://*.priorityhospice.com/*
 *://*.probacc.com/*
 *://*.program-hub.cn/*
