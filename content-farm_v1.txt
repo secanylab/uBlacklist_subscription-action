@@ -13,6 +13,7 @@ title/小[\s\S]知识网/
 title/小[\s\S]百科网/
 title/.* - 小.(百科|知识)网/
 title/小.(百科|知识)网/
+title/程序员ITS.*/
 
 !# domain list
 *://*.00002w.com/*
@@ -1325,6 +1326,7 @@ title/小.(百科|知识)网/
 *://*.98kwz.com/*
 *://*.990ke80.cn/*
 *://*.993113.cn/*
+*://*.995522.com/*
 *://*.9988wan.com/*
 *://*.998thkkg.cn/*
 *://*.9998game.com/*
@@ -3385,6 +3387,7 @@ title/小.(百科|知识)网/
 *://*.fgdb.cn.com/*
 *://*.fgjrkh0769.com/*
 *://*.fgyfnic.cn/*
+*://*.fh6608.com/*
 *://*.fhd6exs.cn/*
 *://*.fheh.com.cn/*
 *://*.fhkyg.cricket/*
@@ -4656,6 +4659,13 @@ title/小.(百科|知识)网/
 *://*.itranslate.com/*
 *://*.itranslater.com/*
 *://*.itread01.com/*
+*://*.its201.com/*
+*://*.its203.com/*
+*://*.its301.com/*
+*://*.its304.com/*
+*://*.its401.com/*
+*://*.its404.com/*
+*://*.its500.com/*
 *://*.itvgm.cn/*
 *://*.itw01.com/*
 *://*.ityouknow.com/*
