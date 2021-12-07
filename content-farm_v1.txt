@@ -2545,6 +2545,7 @@ title/小.(百科|知识)网/
 *://*.codeqq.com/*
 *://*.coder.work/*
 *://*.codercto.com/*
+*://*.coderedirect.com/*
 *://*.coderoad.ru/*
 *://*.codertw.com/*
 *://*.codycn.com/*
@@ -2670,6 +2671,7 @@ title/小.(百科|知识)网/
 *://*.cumminseagle.buzz/*
 *://*.cumslinger.buzz/*
 *://*.cunzad.cn/*
+*://*.cuoshuo.com/*
 *://*.cup-and-saucer.net/*
 *://*.curious-rabble.net/*
 *://*.curitis.cn/*
@@ -3648,6 +3650,7 @@ title/小.(百科|知识)网/
 *://*.gebvrl0.cn/*
 *://*.geek-share.com/*
 *://*.geekbing.com/*
+*://*.geeksforgeeks.org/*
 *://*.gegoods.com/*
 *://*.geino-taro.com/*
 *://*.geinou-now.net/*
@@ -6903,6 +6906,7 @@ title/小.(百科|知识)网/
 *://*.python88.com/*
 *://*.pythonf.cn/*
 *://*.pythonmana.com/*
+*://*.pythonrepo.com/*
 *://*.pzdyj.com/*
 *://*.pzhfly.cn/*
 *://*.pzhnanke.com/*
@@ -6995,6 +6999,7 @@ title/小.(百科|知识)网/
 *://*.qiongwengc.cn/*
 *://*.qiruigou.com/*
 *://*.qishh.com/*
+*://*.qishunwang.net/*
 *://*.qitianjk.com/*
 *://*.qiukaineng.com/*
 *://*.qiuqing550.cn/*
@@ -7925,6 +7930,7 @@ title/小.(百科|知识)网/
 *://*.stmhxqs.com/*
 *://*.storm.mg/*
 *://*.structcalc.buzz/*
+*://*.studyeducation.org/*
 *://*.studynb1.com/*
 *://*.su-ki-da.com/*
 *://*.subaidajs.com/*
