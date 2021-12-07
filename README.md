@@ -5,6 +5,9 @@
 [Blocks specific sites from appearing in Google search results](https://github.com/iorate/uBlacklist) with uBlacklist Subscription List.
 
 
+![WorkFlow](https://github.com/secanylab/uBlacklist_subscription/blob/master/uBlacklist.png?raw=true)
+
+
 ## How to customize metadata
 
 ```

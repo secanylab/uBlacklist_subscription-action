@@ -1,0 +1,95 @@
+# VS Code
+.vscode
+.venv
+
+# Production environment variables
+.env
+*.env
+
+# Postgres data
+database/data/
+
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+db.sqlite3-journal
+media
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+lib/
+lib64/
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# C extensions
+# Distribution / packaging
+
+### react ###
+.DS_*
+.DS_Store
+**/.DS_Store
+logs/*.log
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
+
+# Ignore local docker-compose file, in case you make a copy for local changes
+docker-compose.yml
+
+# End of https://www.gitignore.io/api/react,django,python
+
+# pycharm settings
+.idea/workspace.xml
+.idea/
