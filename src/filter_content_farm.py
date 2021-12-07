@@ -25,6 +25,7 @@ for line in f.readlines():
         print("->   " + line)
         if validators.domain(line):
             fld = get_fld(line, fix_protocol=True)
+            filter_domain_list.append("*://" + fld + "/*")
             filter_domain_list.append("*://*." + fld + "/*")
 
 content = sorted(set(filter_domain_list))
