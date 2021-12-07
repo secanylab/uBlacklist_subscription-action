@@ -13,3 +13,4 @@ title/小[\s\S]知识网/
 title/小[\s\S]百科网/
 title/.* - 小.(百科|知识)网/
 title/小.(百科|知识)网/
+title/程序员ITS.*/
